@@ -461,6 +461,7 @@
 				CC3B3A4A184FDD1F00EF5661 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC3B3A4B184FDD1F00EF5661 /* Build configuration list for PBXNativeTarget "quizTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				CC3B3A4D184FDD1F00EF5661 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
